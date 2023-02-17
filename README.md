@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DL
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning PTS on INE
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
